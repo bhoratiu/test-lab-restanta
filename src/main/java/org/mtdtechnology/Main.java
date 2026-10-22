@@ -24,9 +24,9 @@ public class Main {
     }
 
     da
-    da
+    dass
 
-    public da getDa() {
-        return da;
-    }
+    public dsssa getDa() {
+        return sssda;
+    }sss
 }
