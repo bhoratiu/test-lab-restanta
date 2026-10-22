@@ -14,6 +14,10 @@ public class Main {
             System.out.println("i = " + i);
         }
 
+        /// inca bucati de cod
+        // mai adaug ceva
+        //am uitat
+
         // functie scmechera de login
         //
         //// ..
