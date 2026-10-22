@@ -16,17 +16,15 @@ public class Main {
         //
          // //dsa /
 
-        / d/
-                 d/d/
-
-                 /d/double
-ds
-        /// inca bucati de cod
-        // maixsads adaug ceva
-        //am uitat
+        /// ds dsd s
+        dss
+                dsds
+                supers
+                        s
+                        s
 
         // functie scmechera de login
-        //sda
+        //
         //// ..
     }
 
