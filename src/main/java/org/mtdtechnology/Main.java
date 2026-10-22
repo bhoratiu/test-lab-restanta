@@ -14,6 +14,9 @@ public class Main {
             System.out.println("i = " + i);
 
             // functie scmechera de baza deate
+            // sas
+            superds
+
         }
     }
 }
