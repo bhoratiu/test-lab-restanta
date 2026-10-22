@@ -14,4 +14,11 @@ public class Main {
             System.out.println("i = " + i);
         }
     }
+
+    da
+    da
+
+    public da getDa() {
+        return da;
+    }
 }
