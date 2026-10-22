@@ -13,13 +13,20 @@ public class Main {
             // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
             System.out.println("i = " + i);
         }
+        //
+         // //dsa /
 
+        / d/
+                 d/d/
+
+                 /d/double
+ds
         /// inca bucati de cod
-        // mai adaug ceva
+        // maixsads adaug ceva
         //am uitat
 
         // functie scmechera de login
-        //
+        //sda
         //// ..
     }
 }
